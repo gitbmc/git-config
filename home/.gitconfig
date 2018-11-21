@@ -1,0 +1,6 @@
+[includeIf "gitdir:~/.homesick/repos/"]
+                   path = ~/.gitconfig-gitbmc
+
+[includeIf "gitdir:~/.gitbmc/"]
+                   path = ~/.gitconfig-gitbmc
+

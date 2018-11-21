@@ -1,0 +1,23 @@
+# -*- mode: gitignore; -*-
+
+# Emacs
+*~
+\#*\#
+*.elc
+auto-save-list
+tramp
+.\#*
+
+
+# Backup files
+*~
+*.backup
+*.back
+*.bak
+*.orig
+*.org
+*.temp
+*.tmp
+
+# Undo-tree save-files
+*.~undo-tree
