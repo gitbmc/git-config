@@ -1,5 +1,5 @@
 [core]
-	excludesFile = $HOME/.gitignore_global
+	excludesFile = ~/.gitignore_global
 [user]
 	email = 20129439+gitbmc@users.noreply.github.com
 	name = gitbmc
