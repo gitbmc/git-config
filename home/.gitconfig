@@ -4,3 +4,5 @@
 [includeIf "gitdir:~/.gitbmc/"]
                    path = ~/.gitconfig-gitbmc
 
+[include]
+                   path = ~/.gitconfig-local
