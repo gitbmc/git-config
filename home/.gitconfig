@@ -1,3 +1,6 @@
+[alias]
+	ctxdiff = difftool -y -x \"diff --color -c\"
+
 [includeIf "gitdir:~/.homesick/repos/"]
                    path = ~/.gitconfig-gitbmc
 
